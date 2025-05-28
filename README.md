@@ -83,7 +83,7 @@ This is a first-phase prototype, and while it demonstrates core functionality, s
 
 
 
-🪪 License
+## 🪪 License
 
 Licensed under the Apache License 2.0.
 See the LICENSE file for full license text.
