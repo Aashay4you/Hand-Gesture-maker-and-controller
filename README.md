@@ -1,4 +1,4 @@
-# 🖐️ Hand Gesture Mouse Controller
+# 🖐️ Hand Gesture and Mouse Controller
 
 A real-time hand gesture recognition system that lets you **control your mouse cursor using hand gestures** detected via your webcam. This project uses **MediaPipe**, **OpenCV**, and **PyAutoGUI** to interpret hand movements and gestures and convert them into mouse actions — like moving, clicking, and dragging — in a hands-free, intuitive way.
 
