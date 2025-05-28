@@ -1,0 +1,13 @@
+opencv-python>=4.5.0
+mediapipe>=0.8.0
+pyautogui>=0.9.50
+numpy>=1.21.0
+pillow>=8.0.0
+tkinter  # Usually comes with Python
+# use the updated version of each and everyone except numpy if necessary
+# Note: tkinter is typically included with Python installations, so it may not need to be installed separately.
+# If you need to install tkinter separately, you can use:
+# sudo apt-get install python3-tk
+# or
+# sudo apt install python3-tk
+# if it still shows module error run the requirement-2 file 
